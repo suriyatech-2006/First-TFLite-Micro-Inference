@@ -1,0 +1,2 @@
+TensorFlow Lite Micro / TensorFlowLite ESP32 compatible Arduino library
+ESP32 Arduino core
